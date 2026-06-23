@@ -1,0 +1,14 @@
+{
+  "sensor_read": {
+    "count": 43,
+    "total_value": 2602.679999999999
+  },
+  "motor_command": {
+    "count": 23,
+    "total_value": 1146.6799999999998
+  },
+  "status_update": {
+    "count": 34,
+    "total_value": 1712.0900000000001
+  }
+}

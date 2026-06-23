@@ -1,0 +1,9 @@
+version: '3.8'
+
+services:
+  pipeline:
+    build: .
+    volumes:
+      - ./output:/app/output
+    environment:
+      - ENV=local
